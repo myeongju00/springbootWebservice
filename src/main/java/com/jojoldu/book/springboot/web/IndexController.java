@@ -1,5 +1,5 @@
 package com.jojoldu.book.springboot.web;
-import com.jojoldu.book.springboot.config.auth.SessionUser;
+import com.jojoldu.book.springboot.config.auth.dto.SessionUser;
 import com.jojoldu.book.springboot.service.PostsService;
 import com.jojoldu.book.springboot.web.dto.PostsResponseDto;
 import lombok.RequiredArgsConstructor;
