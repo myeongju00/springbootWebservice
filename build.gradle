@@ -35,4 +35,6 @@ dependencies {
     implementation('com.h2database:h2')
 //    스프링 시큐리티 설정
     implementation('org.springframework.boot:spring-boot-starter-oauth2-client')
+    implementation('org.springframework.session:spring-session-jdbc')
+    implementation("org.springframework.security:spring-security-test")
 }
